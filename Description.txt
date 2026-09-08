@@ -1,0 +1,6 @@
+App Name: Recordatorios: Tracker de Hábitos
+Short Description: Crea hábitos positivos, organiza tu día y alcanza tus metas fácilmente.
+Full Description:
+Transforma tu rutina con Recordatorios para construir hábitos y hacer un seguimiento de tu progreso. Diseñada para potenciar tu productividad y bienestar, nuestra app te ayuda a mantener el enfoque en lo que realmente importa sin complicaciones.
+
+Keywords: Habit, Productivity, Tracker, Self-improvement, Daily habits
